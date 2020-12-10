@@ -1,0 +1,14 @@
+* {
+    font-family: Product Sans;
+}
+
+a#customLink {
+    color: rgb(0, 31, 99) !important;
+    text-decoration: none !important;
+    transition: all .1s;
+}
+
+a#customLink:hover {
+    opacity: 0.7 !important;
+    text-decoration: underline !important;
+}
